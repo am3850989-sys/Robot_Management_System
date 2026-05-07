@@ -9,6 +9,7 @@ A robust console-based application designed to manage different types of robots 
   - Emergency shutdown for all units.
   - Tracking maintenance history and schedules.
 - **Input Validation:** Ensures robot statuses are only set to recognized states.
+- ![UML Diagram](UML_Diagram.jpeg)
 
 ## 🛠 Concepts Used
 - **Inheritance:** Base class `Robot` with specialized derived classes.
